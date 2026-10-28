@@ -1,0 +1,40 @@
+{
+  "plugins": [
+    {
+      "name": "findings-clean",
+      "source": "./plugins/clean",
+      "version": "1.0.0",
+      "description": "Findings fixture clean"
+    },
+    {
+      "name": "findings-schema",
+      "source": "./plugins/schema",
+      "version": "1.0.0",
+      "description": "Findings fixture schema"
+    },
+    {
+      "name": "findings-skills51",
+      "source": "./plugins/skills51",
+      "version": "1.0.0",
+      "description": "Findings fixture skills51"
+    },
+    {
+      "name": "findings-skills50",
+      "source": "./plugins/skills50",
+      "version": "1.0.0",
+      "description": "Findings fixture skills50"
+    },
+    {
+      "name": "findings-badjson",
+      "source": "./plugins/badjson",
+      "version": "1.0.0",
+      "description": "Findings fixture badjson"
+    },
+    {
+      "name": "findings-badpath",
+      "source": "./plugins/badpath",
+      "version": "1.0.0",
+      "description": "Findings fixture badpath"
+    }
+  ]
+}
